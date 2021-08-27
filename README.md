@@ -1,1 +1,1 @@
-# Face_Recognition_Eigen_Vector
+# Face recognition in python using eigen vectors method with AT&T face dataset.
